@@ -11,7 +11,7 @@
 	</div>
 	<br>
 	<p><small>Loop By Eko</small></p>
-    <p><small><a href="privacy">Privacy</a> &nbsp;|&nbsp; <a href="terms">Terms </a>&nbsp;|&nbsp; <a href="tutorial">Get Started</a></small></p>
+    <p><small><a href="http://www.ekoapp.com/privacy">Privacy</a> &nbsp;|&nbsp; <a href="http://www.ekoapp.com/terms">Terms </a>&nbsp;|&nbsp; <a href="http://www.ekoapp.com/tutorial">Tutorial</a></small></p>
     <a href="https://mixpanel.com/f/partner"><img src="http://cdn.mxpnl.com/site_media/images/partner/badge_blue.png" alt="Mobile Analytics" /></a>
 </footer>
 
